@@ -15,4 +15,4 @@ Sự phổ biến của smartphone ngày càng tăng và là thiết bị không
 Các dịch vụ trực tuyến như thương mại điện tử, thanh toán di động (Momo, ZaloPay), mạng xã hội (Facebook, TikTok) đều dựa vào ứng dụng di động.
 Công nghệ 5G, IoT (Internet of Things), AI (trí tuệ nhân tạo) và AR/VR sẽ giúp các ứng dụng di động thông minh hơn, hỗ trợ người dùng nhiều hơn.
 Nhu cầu về bảo mật, thanh toán không dùng tiền mặt và giải trí trên di động ngày càng tăng.
-Ứng dụng di động không chỉ dừng lại ở các thiết bị smartphone mà còn phát triển trên các thiết bị đeo thông minh như smartwatch và kính thông minh.1
+Ứng dụng di động không chỉ dừng lại ở các thiết bị smartphone mà còn phát triển trên các thiết bị đeo thông minh như smartwatch và kính thông minh.
