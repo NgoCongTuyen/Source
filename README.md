@@ -16,3 +16,5 @@ Các dịch vụ trực tuyến như thương mại điện tử, thanh toán di
 Công nghệ 5G, IoT (Internet of Things), AI (trí tuệ nhân tạo) và AR/VR sẽ giúp các ứng dụng di động thông minh hơn, hỗ trợ người dùng nhiều hơn.
 Nhu cầu về bảo mật, thanh toán không dùng tiền mặt và giải trí trên di động ngày càng tăng.
 Ứng dụng di động không chỉ dừng lại ở các thiết bị smartphone mà còn phát triển trên các thiết bị đeo thông minh như smartwatch và kính thông minh.
+
+![image](https://github.com/user-attachments/assets/03d89870-4852-4148-bc29-e212f1f1a10b)
